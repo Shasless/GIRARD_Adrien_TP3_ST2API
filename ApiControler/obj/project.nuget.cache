@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rw2cIMjL/5W0VgNAYWXkL5rRKaELJWkUqkVCt0P0D57sU16ak5iRt0J/2VrO6qVLIVf2JNDuPB82+frmm80IHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adrie\\Downloads\\ProjectISA-master\\ApiControler\\ApiControler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adrie\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
