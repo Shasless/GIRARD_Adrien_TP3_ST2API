@@ -5846,11 +5846,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adrie\\Downloads\\ProjectISA-master\\UnitTestApi\\UnitTestApi.csproj",
+      "projectUniqueName": "C:\\Users\\adrie\\RiderProjects\\TP3Csharp\\UnitTestApi\\UnitTestApi.csproj",
       "projectName": "UnitTestApi",
-      "projectPath": "C:\\Users\\adrie\\Downloads\\ProjectISA-master\\UnitTestApi\\UnitTestApi.csproj",
+      "projectPath": "C:\\Users\\adrie\\RiderProjects\\TP3Csharp\\UnitTestApi\\UnitTestApi.csproj",
       "packagesPath": "C:\\Users\\adrie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adrie\\Downloads\\ProjectISA-master\\UnitTestApi\\obj\\",
+      "outputPath": "C:\\Users\\adrie\\RiderProjects\\TP3Csharp\\UnitTestApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adrie\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5865,8 +5865,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\adrie\\Downloads\\ProjectISA-master\\ApiControler\\ApiControler.csproj": {
-              "projectPath": "C:\\Users\\adrie\\Downloads\\ProjectISA-master\\ApiControler\\ApiControler.csproj"
+            "C:\\Users\\adrie\\RiderProjects\\TP3Csharp\\ApiControler\\ApiControler.csproj": {
+              "projectPath": "C:\\Users\\adrie\\RiderProjects\\TP3Csharp\\ApiControler\\ApiControler.csproj"
             }
           }
         }
@@ -5917,7 +5917,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IxyEYRImBakTgkI0aPAvU6NJmln+lOgs4t8XAS6rpOCF17DWGX8L2xTlGOe6TlUbOgpv0j8xlwGtIn966UBVsw==",
+  "dgSpecHash": "raqio2F5pE7fkIKrvP1BPHJ0CHWNb2rIT+Fw7t6NImNwHHu30rk1UWZuPnOUrLy8VswKbG/rgEvC/tTCxCqUFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adrie\\Downloads\\ProjectISA-master\\UnitTestApi\\UnitTestApi.csproj",
+  "projectFilePath": "C:\\Users\\adrie\\RiderProjects\\TP3Csharp\\UnitTestApi\\UnitTestApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adrie\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\adrie\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

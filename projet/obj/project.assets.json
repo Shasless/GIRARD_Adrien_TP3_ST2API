@@ -400,11 +400,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adrie\\Downloads\\ProjectISA-master\\projet\\projet.csproj",
+      "projectUniqueName": "C:\\Users\\adrie\\RiderProjects\\TP3Csharp\\projet\\projet.csproj",
       "projectName": "projet",
-      "projectPath": "C:\\Users\\adrie\\Downloads\\ProjectISA-master\\projet\\projet.csproj",
+      "projectPath": "C:\\Users\\adrie\\RiderProjects\\TP3Csharp\\projet\\projet.csproj",
       "packagesPath": "C:\\Users\\adrie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adrie\\Downloads\\ProjectISA-master\\projet\\obj\\",
+      "outputPath": "C:\\Users\\adrie\\RiderProjects\\TP3Csharp\\projet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adrie\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -419,8 +419,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\adrie\\Downloads\\ProjectISA-master\\ApiControler\\ApiControler.csproj": {
-              "projectPath": "C:\\Users\\adrie\\Downloads\\ProjectISA-master\\ApiControler\\ApiControler.csproj"
+            "C:\\Users\\adrie\\RiderProjects\\TP3Csharp\\ApiControler\\ApiControler.csproj": {
+              "projectPath": "C:\\Users\\adrie\\RiderProjects\\TP3Csharp\\ApiControler\\ApiControler.csproj"
             }
           }
         }
@@ -478,7 +478,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   },

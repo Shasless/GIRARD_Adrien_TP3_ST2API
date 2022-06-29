@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adrie\\Downloads\\ProjectISA-master\\ApiControler\\ApiControler.csproj": {}
+    "C:\\Users\\adrie\\RiderProjects\\TP3Csharp\\ApiControler\\ApiControler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adrie\\Downloads\\ProjectISA-master\\ApiControler\\ApiControler.csproj": {
+    "C:\\Users\\adrie\\RiderProjects\\TP3Csharp\\ApiControler\\ApiControler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adrie\\Downloads\\ProjectISA-master\\ApiControler\\ApiControler.csproj",
+        "projectUniqueName": "C:\\Users\\adrie\\RiderProjects\\TP3Csharp\\ApiControler\\ApiControler.csproj",
         "projectName": "ApiControler",
-        "projectPath": "C:\\Users\\adrie\\Downloads\\ProjectISA-master\\ApiControler\\ApiControler.csproj",
+        "projectPath": "C:\\Users\\adrie\\RiderProjects\\TP3Csharp\\ApiControler\\ApiControler.csproj",
         "packagesPath": "C:\\Users\\adrie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adrie\\Downloads\\ProjectISA-master\\ApiControler\\obj\\",
+        "outputPath": "C:\\Users\\adrie\\RiderProjects\\TP3Csharp\\ApiControler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adrie\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

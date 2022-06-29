@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R8XbV9utO3AEwowZ/8h5aJD7P7zEzjk8shmWlCVC9R6LnjkzLi50kSC+GR7ZeDlhO+LrXGEF4tkFiQO3Cu18rA==",
+  "dgSpecHash": "oIYLl84hHZ54q6H4sATtSGN92UW37BYCAoL8crTH/2K46XNIzAL7HXNlSAkZQBWoGVezjt44RODyf29U43e8/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adrie\\Downloads\\ProjectISA-master\\projet\\projet.csproj",
+  "projectFilePath": "C:\\Users\\adrie\\RiderProjects\\TP3Csharp\\projet\\projet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adrie\\.nuget\\packages\\bingmaps.typescript.definitelytyped\\2.4.3\\bingmaps.typescript.definitelytyped.2.4.3.nupkg.sha512",
     "C:\\Users\\adrie\\.nuget\\packages\\bingmapsresttoolkit\\1.1.4\\bingmapsresttoolkit.1.1.4.nupkg.sha512",
