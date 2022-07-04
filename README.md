@@ -1,4 +1,4 @@
-# TP3Csharp
+# TP3Csharp ST2 API
 Adrien GIRARD
 
 In order to execute the project open the c# project, dowload the dependence required (newtonsoft ..) and execute the project projet. You can also go in the programme __exe file and execute WeatherReport
