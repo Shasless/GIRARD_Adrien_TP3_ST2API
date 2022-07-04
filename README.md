@@ -1,6 +1,9 @@
 # TP3Csharp
 Adrien GIRARD
 
+In order to execute the project open the c# project, dowload the dependence required (newtonsoft ..) and execute the project projet. You can also go in the programme __exe file and execute WeatherReport
+
+
 Question:
 
 1. I didnt encouter large problems during the realisation of tp2. In fact the course of the last semester with mister Fontana give me everything that i need to realize this tp
