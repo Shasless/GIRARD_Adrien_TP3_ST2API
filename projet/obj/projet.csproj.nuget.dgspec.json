@@ -108,14 +108,6 @@
               "target": "Package",
               "version": "[1.0.0.3, )"
             },
-            "NUnit": {
-              "target": "Package",
-              "version": "[3.13.3, )"
-            },
-            "NUnit3TestAdapter": {
-              "target": "Package",
-              "version": "[4.3.0-alpha-net7.4, )"
-            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
