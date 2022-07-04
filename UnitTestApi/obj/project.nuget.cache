@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "raqio2F5pE7fkIKrvP1BPHJ0CHWNb2rIT+Fw7t6NImNwHHu30rk1UWZuPnOUrLy8VswKbG/rgEvC/tTCxCqUFg==",
+  "dgSpecHash": "JnCliGiZVnFgTuIjsqOq48uooGpxF60b9SZVenv+6xL8VuX4ZmLl5vhl/UR1zVWufMwOOTyc9Ks/O5C8q7fnTg==",
   "success": true,
   "projectFilePath": "C:\\Users\\adrie\\RiderProjects\\TP3Csharp\\UnitTestApi\\UnitTestApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adrie\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\adrie\\.nuget\\packages\\leaflet\\0.7.3\\leaflet.0.7.3.nupkg.sha512",
     "C:\\Users\\adrie\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\adrie\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",
     "C:\\Users\\adrie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

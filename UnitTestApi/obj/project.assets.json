@@ -8,6 +8,9 @@
           "build/netstandard1.0/coverlet.collector.targets": {}
         }
       },
+      "leaflet/0.7.3": {
+        "type": "package"
+      },
       "Microsoft.CodeCoverage/16.9.4": {
         "type": "package",
         "compile": {
@@ -1575,7 +1578,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "Newtonsoft.Json": "13.0.1"
+          "Newtonsoft.Json": "13.0.1",
+          "leaflet": "0.7.3"
         },
         "compile": {
           "bin/placeholder/ApiControler.dll": {}
@@ -1636,6 +1640,25 @@
         "coverlet-icon.png",
         "coverlet.collector.3.0.2.nupkg.sha512",
         "coverlet.collector.nuspec"
+      ]
+    },
+    "leaflet/0.7.3": {
+      "sha512": "R20Vv1lXuqcu6lKeHFy8KnahLxetHaKBS0S2y/mrq+phhkTtz0zIr6isxJR89LuQR9v53aKNMFVyaxLU+zagEw==",
+      "type": "package",
+      "path": "leaflet/0.7.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/Content/images/layers-2x.png",
+        "content/Content/images/layers.png",
+        "content/Content/images/marker-icon-2x.png",
+        "content/Content/images/marker-icon.png",
+        "content/Content/images/marker-shadow.png",
+        "content/Content/leaflet.css",
+        "content/Scripts/leaflet-0.7.3.js",
+        "content/Scripts/leaflet-0.7.3.min.js",
+        "leaflet.0.7.3.nupkg.sha512",
+        "leaflet.nuspec"
       ]
     },
     "Microsoft.CodeCoverage/16.9.4": {
@@ -5837,7 +5860,8 @@
       "MSTest.TestFramework >= 2.2.3",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
       "Newtonsoft.Json >= 13.0.1",
-      "coverlet.collector >= 3.0.2"
+      "coverlet.collector >= 3.0.2",
+      "leaflet >= 0.7.3"
     ]
   },
   "packageFolders": {
@@ -5900,6 +5924,10 @@
           "coverlet.collector": {
             "target": "Package",
             "version": "[3.0.2, )"
+          },
+          "leaflet": {
+            "target": "Package",
+            "version": "[0.7.3, )"
           }
         },
         "imports": [

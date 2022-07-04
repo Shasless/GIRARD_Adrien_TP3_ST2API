@@ -14,6 +14,9 @@
           "lib/netstandard2.0/BingMapsRESTToolkit.dll": {}
         }
       },
+      "leaflet/0.7.3": {
+        "type": "package"
+      },
       "Microsoft.Maps.MapControl.WPF/1.0.0.3": {
         "type": "package",
         "compile": {
@@ -36,7 +39,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "Newtonsoft.Json": "13.0.1"
+          "Newtonsoft.Json": "13.0.1",
+          "leaflet": "0.7.3"
         },
         "compile": {
           "bin/placeholder/ApiControler.dll": {}
@@ -98,6 +102,25 @@
         "lib/xamarinios/BingMapsRESTToolkit.pdb"
       ]
     },
+    "leaflet/0.7.3": {
+      "sha512": "R20Vv1lXuqcu6lKeHFy8KnahLxetHaKBS0S2y/mrq+phhkTtz0zIr6isxJR89LuQR9v53aKNMFVyaxLU+zagEw==",
+      "type": "package",
+      "path": "leaflet/0.7.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/Content/images/layers-2x.png",
+        "content/Content/images/layers.png",
+        "content/Content/images/marker-icon-2x.png",
+        "content/Content/images/marker-icon.png",
+        "content/Content/images/marker-shadow.png",
+        "content/Content/leaflet.css",
+        "content/Scripts/leaflet-0.7.3.js",
+        "content/Scripts/leaflet-0.7.3.min.js",
+        "leaflet.0.7.3.nupkg.sha512",
+        "leaflet.nuspec"
+      ]
+    },
     "Microsoft.Maps.MapControl.WPF/1.0.0.3": {
       "sha512": "P5Xys9PH/NIZY8qPASd03VOrZ/eXyS1hSoruR7oM+Otn98DkvUD1LwO8m9Aro4/5jCU1BgRmOTJrIQm5y9UHnQ==",
       "type": "package",
@@ -150,7 +173,8 @@
       "BingMapsRESTToolkit >= 1.1.4",
       "Microsoft.Maps.MapControl.WPF >= 1.0.0.3",
       "Newtonsoft.Json >= 13.0.1",
-      "bingmaps.TypeScript.DefinitelyTyped >= 2.4.3"
+      "bingmaps.TypeScript.DefinitelyTyped >= 2.4.3",
+      "leaflet >= 0.7.3"
     ]
   },
   "packageFolders": {
@@ -209,6 +233,10 @@
           "bingmaps.TypeScript.DefinitelyTyped": {
             "target": "Package",
             "version": "[2.4.3, )"
+          },
+          "leaflet": {
+            "target": "Package",
+            "version": "[0.7.3, )"
           }
         },
         "imports": [

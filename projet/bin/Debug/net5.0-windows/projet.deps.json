@@ -12,7 +12,8 @@
           "BingMapsRESTToolkit": "1.1.4",
           "Microsoft.Maps.MapControl.WPF": "1.0.0.3",
           "Newtonsoft.Json": "13.0.1",
-          "bingmaps.TypeScript.DefinitelyTyped": "2.4.3"
+          "bingmaps.TypeScript.DefinitelyTyped": "2.4.3",
+          "leaflet": "0.7.3"
         },
         "runtime": {
           "projet.dll": {}
@@ -27,6 +28,7 @@
           }
         }
       },
+      "leaflet/0.7.3": {},
       "Microsoft.Maps.MapControl.WPF/1.0.0.3": {
         "runtime": {
           "lib/net40-Client/Microsoft.Maps.MapControl.WPF.dll": {
@@ -45,7 +47,8 @@
       },
       "ApiControler/1.0.0": {
         "dependencies": {
-          "Newtonsoft.Json": "13.0.1"
+          "Newtonsoft.Json": "13.0.1",
+          "leaflet": "0.7.3"
         },
         "runtime": {
           "ApiControler.dll": {}
@@ -72,6 +75,13 @@
       "sha512": "sha512-RFRROSRwLJnaET74DdKcesArciUTPhJ7geWvIsjITzGSIUIAigTLYEgSEZFX9YZVl/CPCPYPyEt0n6raL34Gvw==",
       "path": "bingmapsresttoolkit/1.1.4",
       "hashPath": "bingmapsresttoolkit.1.1.4.nupkg.sha512"
+    },
+    "leaflet/0.7.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R20Vv1lXuqcu6lKeHFy8KnahLxetHaKBS0S2y/mrq+phhkTtz0zIr6isxJR89LuQR9v53aKNMFVyaxLU+zagEw==",
+      "path": "leaflet/0.7.3",
+      "hashPath": "leaflet.0.7.3.nupkg.sha512"
     },
     "Microsoft.Maps.MapControl.WPF/1.0.0.3": {
       "type": "package",

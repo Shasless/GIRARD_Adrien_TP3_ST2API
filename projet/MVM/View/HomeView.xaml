@@ -5,11 +5,18 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:local="clr-namespace:projet.MVM.View"
              xmlns:wpf="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
+             xmlns:global="clr-namespace:"
              mc:Ignorable="d"
     d:DesignHeight="300" d:DesignWidth="300">
     <Grid>
         <wpf:Map Name="Mymap"     MouseDown="MapWithPushpins_MouseDoubleClick"
-                 CredentialsProvider="AtiY08tuSHE8EIMH_l5bcbr8Aotd7PRaMG8Ywlwm8TjboirXceP3OOI6pHihyVgT"  Center="48.864716, 2.349014" ZoomLevel="8" />
+                 CredentialsProvider="AtiY08tuSHE8EIMH_l5bcbr8Aotd7PRaMG8Ywlwm8TjboirXceP3OOI6pHihyVgT"  Center="48.864716, 2.349014" ZoomLevel="8">
+            
+            <global:MyTileLayer UriFormat="https://tile.openweathermap.org/map/precipitation_new/{z}/{x}/{y}.png?appid=02f51cc081aaadce756d51caf9911932"/>
+            <global:MyTileLayer UriFormat="https://tile.openweathermap.org/map/clouds_new/{z}/{x}/{y}.png?appid=02f51cc081aaadce756d51caf9911932"/>
+
+        </wpf:Map>
+        
 
     </Grid>
 </UserControl>
