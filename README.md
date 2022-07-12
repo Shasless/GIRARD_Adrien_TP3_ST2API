@@ -12,3 +12,17 @@ KISS is for  keep it simple, stupid. This principale is intended not to complica
 Clean code is code that is easy to understand, maintain and improve, all without compromising the quality of code execution.
 3. There are a lot of improvement voices compared to the tp2. The first one is simply to be able to select the place where you want to know the weather, and to make sure that this choice doesn't lead to a bug. We can also want to have the weather forecast for the next few days. We can also think about a graphical interface that will show us all the data we want. Or a map that would allow us to select the area from which we want the weather.
 
+
+
+Use
+Once the application is launched you will find yourself with a world map on the right side of the screen.
+![Test Image 1](https://github.com/Shasless/GIRARD_Adrien_TP3_ST2API/blob/main/screenshot/Capture1.PNG)
+
+You can zoom in and out and move around. 
+![Test Image 2](https://github.com/Shasless/GIRARD_Adrien_TP3_ST2API/blob/main/screenshot/Capture2.PNG)
+
+On this map is displayed the clouds and in blue the clouds raining at this moment. You can click on a location on the map and click on go to get the weather for that city and the 4 day forecast.
+![Test Image 3](https://github.com/Shasless/GIRARD_Adrien_TP3_ST2API/blob/main/screenshot/Capture3.PNG)
+
+![Test Image 4](https://github.com/Shasless/GIRARD_Adrien_TP3_ST2API/blob/main/screenshot/Capture4.PNG)
+
