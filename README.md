@@ -14,7 +14,8 @@ Clean code is code that is easy to understand, maintain and improve, all without
 
 
 
-Use
+Use:
+
 Once the application is launched you will find yourself with a world map on the right side of the screen.
 ![Test Image 1](https://github.com/Shasless/GIRARD_Adrien_TP3_ST2API/blob/main/screenshot/Capture1.PNG)
 
